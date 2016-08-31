@@ -1,4 +1,3 @@
-layout_spectrum: 0.5264794563408941
 typography_spectrum: 0.38211627304553986
 color:
   brandStrength: 0.5988810597918928
@@ -11,4 +10,6 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
+layout_spectrum: 0.5264794563408941
 name: GKL Woodworks
+title: GKL Woodworks
