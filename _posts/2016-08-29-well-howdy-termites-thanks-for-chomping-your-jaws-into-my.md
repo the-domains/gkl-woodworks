@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-31T00:01:42.310Z'
+datePublished: '2016-08-31T00:24:46.553Z'
 sourcePath: _posts/2016-08-29-well-howdy-termites-thanks-for-chomping-your-jaws-into-my.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T00:01:41.474Z'
+dateModified: '2016-08-31T00:24:46.113Z'
 title: Blog
 publisher: {}
 description: 8/29/16
