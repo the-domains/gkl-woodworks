@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GKL Woodworks]]></title>
+        <description><![CDATA[GKL Woodworks]]></description>
+        <link>http://gklwoodworks.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 31 Aug 2016 00:24:48 GMT</lastBuildDate>
+        <atom:link href="http://gklwoodworks.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blog]]></title>
+            <description><![CDATA[<article><h1>Blog</h1><p>8/29/16</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94f6823e-0352-4b2d-96fc-2a0b59bfd36b.jpg"></article>]]></description>
+            <link>http://gklwoodworks.com/blog/index.html</link>
+            <guid isPermaLink="false">896c828a-a0dc-44d2-926e-964fab1148e5</guid>
+            <pubDate>Wed, 31 Aug 2016 00:24:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
