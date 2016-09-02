@@ -16,5 +16,8 @@ navigation:
   - name: The Wood Closet
     id: c43cc13e-ad74-4d07-9b2c-4b6a33c51e22
     type: content
+  - name: The B-log
+    id: 896c828a-a0dc-44d2-926e-964fab1148e5
+    type: content
 title: GKL Woodworks
 description: One goddamn splinter at a time...
