@@ -12,5 +12,9 @@ color:
     - '#BD8D46'
 layout_spectrum: 0.5264794563408941
 name: GKL Woodworks
+navigation:
+  - name: Portfolio
+    id: c43cc13e-ad74-4d07-9b2c-4b6a33c51e22
+    type: content
 title: GKL Woodworks
 description: One goddamn splinter at a time...
