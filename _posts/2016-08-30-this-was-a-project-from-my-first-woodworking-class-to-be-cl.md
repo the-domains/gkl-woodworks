@@ -1,19 +1,21 @@
 ---
-datePublished: '2016-08-30T23:43:40.434Z'
-inFeed: true
-author: []
-via: {}
-dateModified: '2016-08-30T23:43:33.577Z'
+id: c43cc13e-ad74-4d07-9b2c-4b6a33c51e22
+dateModified: '2016-08-30T23:46:43.766Z'
 title: ''
-publisher: {}
+datePublished: '2016-08-30T23:46:44.436Z'
+author: []
+hasPage: true
 description: >-
   This was a project from my first woodworking class. To be clear, not only did
   I have nearly one-on-one instruction--it was actually one on two that day--but
   I also had unfettered access to a full workshop with all of the best power
   tools... it was heaven. I have considerably less at home.
+publisher: {}
+via: {}
 starred: false
 sourcePath: >-
   _posts/2016-08-30-this-was-a-project-from-my-first-woodworking-class-to-be-cl.md
+url: this-was-a-project-from-my-first-woodworking-class-to-be-cl/index.html
 _type: Blurb
 
 ---
